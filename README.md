@@ -1,5 +1,5 @@
-# ADL22-HW3
-Repository for ADL 2022 homework 3
+# Homework 3 ADL NTU
+> This is a homework for Applied Deep Learning
 
 ## Dataset
 [download link](https://drive.google.com/file/d/186ejZVADY16RBfVjzcMcz9bal9L3inXC/view?usp=sharing)
